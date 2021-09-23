@@ -1,0 +1,7 @@
+C:\Users\Luciana\source\repos\AprendendoCSharp\DesafioAliquotaComIfs\bin\Debug\DesafioAliquotaComIfs.exe.config
+C:\Users\Luciana\source\repos\AprendendoCSharp\DesafioAliquotaComIfs\bin\Debug\DesafioAliquotaComIfs.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\DesafioAliquotaComIfs\bin\Debug\DesafioAliquotaComIfs.pdb
+C:\Users\Luciana\source\repos\AprendendoCSharp\DesafioAliquotaComIfs\obj\Debug\DesafioAliquotaComIfs.csprojAssemblyReference.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp\DesafioAliquotaComIfs\obj\Debug\DesafioAliquotaComIfs.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp\DesafioAliquotaComIfs\obj\Debug\DesafioAliquotaComIfs.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\DesafioAliquotaComIfs\obj\Debug\DesafioAliquotaComIfs.pdb

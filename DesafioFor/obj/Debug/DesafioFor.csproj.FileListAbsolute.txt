@@ -1,0 +1,7 @@
+C:\Users\Luciana\source\repos\AprendendoCSharp\DesafioFor\bin\Debug\DesafioFor.exe.config
+C:\Users\Luciana\source\repos\AprendendoCSharp\DesafioFor\bin\Debug\DesafioFor.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\DesafioFor\bin\Debug\DesafioFor.pdb
+C:\Users\Luciana\source\repos\AprendendoCSharp\DesafioFor\obj\Debug\DesafioFor.csprojAssemblyReference.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp\DesafioFor\obj\Debug\DesafioFor.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp\DesafioFor\obj\Debug\DesafioFor.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\DesafioFor\obj\Debug\DesafioFor.pdb

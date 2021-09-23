@@ -1,0 +1,6 @@
+C:\Users\Luciana\source\repos\AprendendoCSharp\CalculaPoupança\bin\Debug\CalculaPoupança.exe.config
+C:\Users\Luciana\source\repos\AprendendoCSharp\CalculaPoupança\bin\Debug\CalculaPoupança.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\CalculaPoupança\bin\Debug\CalculaPoupança.pdb
+C:\Users\Luciana\source\repos\AprendendoCSharp\CalculaPoupança\obj\Debug\CalculaPoupança.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp\CalculaPoupança\obj\Debug\CalculaPoupança.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\CalculaPoupança\obj\Debug\CalculaPoupança.pdb

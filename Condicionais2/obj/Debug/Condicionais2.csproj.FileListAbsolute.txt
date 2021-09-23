@@ -1,0 +1,6 @@
+C:\Users\Luciana\source\repos\AprendendoCSharp\Condicionais2\bin\Debug\Condicionais2.exe.config
+C:\Users\Luciana\source\repos\AprendendoCSharp\Condicionais2\bin\Debug\Condicionais2.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\Condicionais2\bin\Debug\Condicionais2.pdb
+C:\Users\Luciana\source\repos\AprendendoCSharp\Condicionais2\obj\Debug\Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp\Condicionais2\obj\Debug\Condicionais2.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\Condicionais2\obj\Debug\Condicionais2.pdb

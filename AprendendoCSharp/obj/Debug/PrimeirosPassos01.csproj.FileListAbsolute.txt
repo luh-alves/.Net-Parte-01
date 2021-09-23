@@ -1,0 +1,7 @@
+C:\Users\Luciana\source\repos\AprendendoCSharp\AprendendoCSharp\bin\Debug\AprendendoCSharp.exe.config
+C:\Users\Luciana\source\repos\AprendendoCSharp\AprendendoCSharp\bin\Debug\AprendendoCSharp.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\AprendendoCSharp\bin\Debug\AprendendoCSharp.pdb
+C:\Users\Luciana\source\repos\AprendendoCSharp\AprendendoCSharp\obj\Debug\PrimeirosPassos01.csprojAssemblyReference.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp\AprendendoCSharp\obj\Debug\PrimeirosPassos01.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp\AprendendoCSharp\obj\Debug\AprendendoCSharp.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\AprendendoCSharp\obj\Debug\AprendendoCSharp.pdb

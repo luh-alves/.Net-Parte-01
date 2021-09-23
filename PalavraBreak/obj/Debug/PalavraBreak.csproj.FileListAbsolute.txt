@@ -1,0 +1,6 @@
+C:\Users\Luciana\source\repos\AprendendoCSharp\PalavraBreak\bin\Debug\PalavraBreak.exe.config
+C:\Users\Luciana\source\repos\AprendendoCSharp\PalavraBreak\bin\Debug\PalavraBreak.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\PalavraBreak\bin\Debug\PalavraBreak.pdb
+C:\Users\Luciana\source\repos\AprendendoCSharp\PalavraBreak\obj\Debug\PalavraBreak.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp\PalavraBreak\obj\Debug\PalavraBreak.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\PalavraBreak\obj\Debug\PalavraBreak.pdb

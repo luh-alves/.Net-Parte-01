@@ -1,0 +1,6 @@
+C:\Users\Luciana\source\repos\AprendendoCSharp\CalculaInvestimentoALongoPrazo\bin\Debug\CalculaInvestimentoALongoPrazo.exe.config
+C:\Users\Luciana\source\repos\AprendendoCSharp\CalculaInvestimentoALongoPrazo\bin\Debug\CalculaInvestimentoALongoPrazo.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\CalculaInvestimentoALongoPrazo\bin\Debug\CalculaInvestimentoALongoPrazo.pdb
+C:\Users\Luciana\source\repos\AprendendoCSharp\CalculaInvestimentoALongoPrazo\obj\Debug\CalculaInvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp\CalculaInvestimentoALongoPrazo\obj\Debug\CalculaInvestimentoALongoPrazo.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\CalculaInvestimentoALongoPrazo\obj\Debug\CalculaInvestimentoALongoPrazo.pdb

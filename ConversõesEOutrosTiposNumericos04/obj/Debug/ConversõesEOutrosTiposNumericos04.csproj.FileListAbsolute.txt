@@ -1,0 +1,7 @@
+C:\Users\Luciana\source\repos\AprendendoCSharp\ConversõesEOutrosTiposNumericos04\bin\Debug\ConversõesEOutrosTiposNumericos04.exe.config
+C:\Users\Luciana\source\repos\AprendendoCSharp\ConversõesEOutrosTiposNumericos04\bin\Debug\ConversõesEOutrosTiposNumericos04.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\ConversõesEOutrosTiposNumericos04\bin\Debug\ConversõesEOutrosTiposNumericos04.pdb
+C:\Users\Luciana\source\repos\AprendendoCSharp\ConversõesEOutrosTiposNumericos04\obj\Debug\ConversõesEOutrosTiposNumericos04.csprojAssemblyReference.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp\ConversõesEOutrosTiposNumericos04\obj\Debug\ConversõesEOutrosTiposNumericos04.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp\ConversõesEOutrosTiposNumericos04\obj\Debug\ConversõesEOutrosTiposNumericos04.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\ConversõesEOutrosTiposNumericos04\obj\Debug\ConversõesEOutrosTiposNumericos04.pdb

@@ -1,0 +1,7 @@
+C:\Users\Luciana\source\repos\AprendendoCSharp\CriandoVariaveisFlutuante03\bin\Debug\CriandoVariaveisFlutuante03.exe.config
+C:\Users\Luciana\source\repos\AprendendoCSharp\CriandoVariaveisFlutuante03\bin\Debug\CriandoVariaveisFlutuante03.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\CriandoVariaveisFlutuante03\bin\Debug\CriandoVariaveisFlutuante03.pdb
+C:\Users\Luciana\source\repos\AprendendoCSharp\CriandoVariaveisFlutuante03\obj\Debug\CriandoVariaveisFlutuante03.csprojAssemblyReference.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp\CriandoVariaveisFlutuante03\obj\Debug\CriandoVariaveisFlutuante03.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp\CriandoVariaveisFlutuante03\obj\Debug\CriandoVariaveisFlutuante03.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp\CriandoVariaveisFlutuante03\obj\Debug\CriandoVariaveisFlutuante03.pdb
